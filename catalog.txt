@@ -38,6 +38,3 @@ Harry Potter és a bölcsek köve;152
 Jurassic Park;127
 Avatar;162
 Titanic;194
-
-sorozat;Tom és Jerry;1. rész:40;2. rész:50
-sorozat;Példa sorozat;1. epizód:25;2. epizód:35;3. epizód:30

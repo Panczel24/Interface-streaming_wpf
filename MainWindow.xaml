@@ -7,6 +7,40 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
+        <TextBlock Grid.Row="0" Text="STREAMING" FontSize="28" Margin="10"/>
+
+        <TextBlock Grid.Row="1" Text="Filmek és sorozatok egy helyen" Margin="10"/>
+
+        <StackPanel Grid.Row="2" Margin="10">
+            <TextBlock Text="Keresés cím alapján:"/>
+
+            <TextBox x:Name="keresesTextBox"
+                     TextChanged="KeresesTextBox_TextChanged"/>
+
+            <ListView x:Name="tartalomLista" Height="270">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Cím" Width="390" DisplayMemberBinding="{Binding Cim}"/>
+                        <GridViewColumn Header="Hossz" Width="170" DisplayMemberBinding="{Binding Hossz}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Fájl beolvasása" Click="Beolvasas_Click" Margin="5"/>
+            <Button Content="Leghosszabb tartalom" Click="Leghosszabb_Click" Margin="5"/>
+        </StackPanel>
+
+        <TextBlock x:Name="eredmenyTextBlock" Grid.Row="4" Margin="10"
+                   Text="Tartalmak betöltése..."/>
     </Grid>
 </Window>

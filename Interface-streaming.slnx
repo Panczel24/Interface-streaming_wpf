@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path="catalog.txt" />
+    <File Path="series.txt" />
   </Folder>
   <Project Path="Interface-streaming.csproj" />
 </Solution>

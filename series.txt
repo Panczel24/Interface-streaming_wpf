@@ -1,0 +1,40 @@
+Tom és Jerry;40;50
+A nagy pénzrablás;48;52
+Stranger Things;51;55
+Wednesday;48;50
+The Mandalorian;39;42
+A korona;58;61
+Jóbarátok;22;23
+Agymenők;21;22
+Így jártam anyátokkal;22;23
+A Simpson család;22;22
+Family Guy;22;23
+Rick és Morty;23;24
+South Park;22;23
+A nagy pénzrablás: Korea;64;51
+Vaják;61;59
+Breaking Bad;47;48
+Better Call Saul;46;52
+Peaky Blinders;57;59
+Sherlock;88;89
+Dr. House;44;45
+A Grace klinika;43;45
+Doktor Murphy;43;44
+Cobra Kai;31;36
+Lucifer;42;44
+The Boys;60;62
+Loki;52;54
+WandaVízió;32;36
+Sólyomszem;51;54
+Andor;51;38
+Star Trek;45;47
+Lost;42;44
+A visszatérők;42;43
+A rejtély;45;46
+Orphan Black;43;44
+Fekete tükör;49;60
+Black Mirror;51;58
+Narcos;49;53
+Ozark;60;58
+A szolgálólány meséje;55;57
+Trónok harca;57;59
