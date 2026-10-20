@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="catalog.txt" />
+  </Folder>
+  <Project Path="Interface-streaming.csproj" />
+</Solution>

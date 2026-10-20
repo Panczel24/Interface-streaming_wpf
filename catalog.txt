@@ -1,0 +1,43 @@
+Shrek;120
+Jégvarázs;115
+Toy Story;81
+Az oroszlánkirály;88
+Némó nyomában;100
+Ratatouille;111
+Fel!;96
+Verdák;117
+Verdák 2;106
+Verdák 3;102
+Zootropolis;108
+Vaiana;107
+Encanto;102
+Aladdin;90
+A kis hableány;83
+Herkules;93
+Mulan;88
+Tarzan;88
+Pocahontas;81
+Lilo és Stitch;85
+Wall-E;98
+Szörny Rt.;92
+Szörny Egyetem;104
+A hihetetlen család;115
+A hihetetlen család 2;118
+Agymanók;95
+Agymanók 2;96
+Kung Fu Panda;92
+Madagaszkár;86
+Így neveld a sárkányodat;98
+Minyonok;91
+Hotel Transylvania;91
+Jégkorszak;81
+Jégkorszak 2;91
+Croodék;98
+Paddington;95
+Harry Potter és a bölcsek köve;152
+Jurassic Park;127
+Avatar;162
+Titanic;194
+
+sorozat;Tom és Jerry;1. rész:40;2. rész:50
+sorozat;Példa sorozat;1. epizód:25;2. epizód:35;3. epizód:30
