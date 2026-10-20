@@ -11,10 +11,14 @@
 
   <ItemGroup>
     <None Remove="catalog.txt" />
+    <None Remove="series.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="catalog.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="series.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

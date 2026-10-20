@@ -6,7 +6,7 @@ namespace Interface_streaming
 {
     internal class StreamingPlatform
     {
-        private List<IContent> contents = new List<IContent>();
+        public List<IContent> contents = new List<IContent>();
 
         public void addContent(IContent content)
         {
